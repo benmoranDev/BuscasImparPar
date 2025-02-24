@@ -1,0 +1,5 @@
+# ninja log v6
+5	795	7619641380251984	CMakeFiles/untitled1.dir/main.cpp.obj	ec170b39319c41fa
+796	1040	7619641388156181	untitled1.exe	66be7bc6700e022a
+12	484	7619571286943844	CMakeFiles/untitled1.dir/filtarPares.cpp.obj	b379ab7e4cfab54a
+5	441	7621152475347356	build.ninja	a1b3672322101567
