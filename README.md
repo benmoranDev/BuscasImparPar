@@ -1,0 +1,1 @@
+Este projeto é um exemplo simples de manipulação de vetores em C++, onde o usuário pode adicionar números a um vetor, ordenar esse vetor e exibi-lo. O código também usa uma estrutura do-while para perguntar ao usuário se deseja adicionar mais números ao vetor, filtrando números os Impar e Pares.
